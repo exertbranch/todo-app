@@ -1,0 +1,1 @@
+Just a practice project in Python to get experience with Git's functionality.
